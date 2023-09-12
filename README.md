@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucas Silva</h1>
 <h3 align="center">A passionate backend developer from Brazil</h3>
 
-- 🔭 I’m currently working on **Casino, Web Panel, API**
+- 🔭 I’m currently working on **Backend, Web Panel, API**
 
 - 🌱 I’m currently learning **ReactJS**
 
